@@ -1,6 +1,0 @@
-[submodule "vendor/validator"]
-	path = vendor/validator
-	url = https://chriso@github.com/chriso/node-validator.git
-[submodule "vendor/soupselect"]
-	path = vendor/soupselect
-	url = https://github.com/harryf/node-soupselect.git
